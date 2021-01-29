@@ -27,7 +27,7 @@ pylint = "2.6.0"
 pytest = "5.2.1"
 black = "20.8b1"
 isort = "^5.6.4"
-generateDS = "2.37.11"
+generateDS = "2.37.15"
 rstcheck = "^3.3.1"
 
 [build-system]
