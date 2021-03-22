@@ -132,7 +132,7 @@ pydocstyle = ">=2.1"
 
 [[package]]
 name = "generateds"
-version = "2.37.11"
+version = "2.38.2"
 description = "Generate Python data structures and XML parser from Xschema"
 category = "dev"
 optional = false
@@ -485,7 +485,7 @@ testing = ["pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "c6a9c4fa1fd875b7ad794c1e02682e1cbee47155cb7c8650b08279fe86460465"
+content-hash = "cd7300008b9f9ecb81aebb262495af32712437a3b8d9e01a4c30cc351ff34099"
 
 [metadata.files]
 appdirs = [
@@ -536,8 +536,8 @@ flake8-docstrings = [
     {file = "flake8_docstrings-1.5.0-py2.py3-none-any.whl", hash = "sha256:a256ba91bc52307bef1de59e2a009c3cf61c3d0952dbe035d6ff7208940c2edc"},
 ]
 generateds = [
-    {file = "generateDS-2.37.11-py3.8.egg", hash = "sha256:4a596a6e9ef7dca862d64422b09a001f329ed95c47fe5632be58173207c33089"},
-    {file = "generateDS-2.37.11.tar.gz", hash = "sha256:bfd10f0e53b105ec7f7869edb97e4602e6063e735f36b63f094887725f88eebc"},
+    {file = "generateDS-2.38.2-py3.8.egg", hash = "sha256:29e2b06c2b914b654832fd1a9fd90d684ae610a1c2dc9079da66a1949a8031b1"},
+    {file = "generateDS-2.38.2.tar.gz", hash = "sha256:a195e535c06ff8af1d0386f4f4138e0d7d3bdd43ec18c9e18f5137d1e5f76490"},
 ]
 idna = [
     {file = "idna-2.10-py2.py3-none-any.whl", hash = "sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"},
